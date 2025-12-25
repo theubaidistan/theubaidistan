@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ubaid</h1>
+<h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Ubaid</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
@@ -17,8 +17,8 @@
 - 🔭 I'm currently working on **Full-Stack Web Applications**
 - 🌱 I'm currently learning **Advanced React Patterns & System Design**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, TypeScript, MongoDB**
-- 📫 How to reach me: **theubaidistan@gmail.com**
+- 💬 Ask me about **React js, Node.js, TypeScript, MongoDB**
+- 📫 How to reach me: **ubaidazrab50@@gmail.com**
 - ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
 
 ---
@@ -111,13 +111,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=theubaidistan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" /> -->
-</p>
+<!-- </p> -->
 
----
+<!-- --- -->
 
 ## 🔝 Top Contributed Repositories
 
