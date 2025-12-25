@@ -101,12 +101,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theubaidistan&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="180"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=theubaidistan&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="180"/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=theubaidistan&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theubaidistan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theubaidistan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /> -->
 </p>
 
 ---
@@ -114,7 +114,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theubaidistan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=theubaidistan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" /> -->
 </p>
 
 ---
