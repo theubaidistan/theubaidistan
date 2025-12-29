@@ -15,7 +15,7 @@
 <h3 align="center">A Passionate Full-Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things;Building+Scalable+Web+Apps;React+%7C+Node.js+%7C+MongoDB;Open+Source+Contributor;Passionate+About+Clean+Code;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </p>
 
 <p align="center">
