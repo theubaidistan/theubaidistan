@@ -1,3 +1,25 @@
+<p  align="center">
+
+<img  src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,24&height=200&section=header&text=Code%20Matrix&fontSize=70&rotate=14&fontAlignY=25&desc=The%20Developer&descAlignY=43&descAlign=60"  />
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Ubaid&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+</p>
+
+<p  align="center">
+
+<img  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Muhammad%20Ubaid&fontSize=70&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=65"  />
+
+</p>
+
+<p  align="center">
+
+<img  src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,3,4,5&height=150&section=header&text=Full%20Stack%20Dev&fontSize=50&animation=fadeIn&fontColor=fff"  />
+
+</p>
+
 <h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Ubaid</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Pakistan 🇵🇰</h3>
 
@@ -6,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theubaidistan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=theubaidistan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/theubaidistan?label=Followers&style=social" alt="followers" />
 </p>
 
@@ -24,15 +46,17 @@
 ---
 
 ## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-ubaid-164a98278" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/theubaidistan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/muhammad-ubaid-164a98278" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /> </a> <a href="https://github.com/theubaidistan" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="50" /> </a> <a href="https://dev.to/theubaidistan" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="40" width="50" /> </a> <a href="mailto:ubaidazrab50@gmail.com" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="50" /> </a> </p> <p align="center"> <a href="mailto:ubaidazrab50@gmail.com"> <img src="https://img.shields.io/badge/Email_Me-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/muhammad-ubaid-164a98278"> <img src="https://img.shields.io/badge/Hire_Me-I'm_Available-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 ---
 
 ## 💻 Tech Stack
+
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,mongodb,express,nextjs,tailwind,git,github,vscode,postman,figma&perline=6" />
+</p>
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -98,6 +122,27 @@
 
 ---
 
+## 💪 Skills Progress
+
+  
+
+**Frontend Development:**
+
+![React](https://img.shields.io/badge/React-90%25-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=20232a)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=black)
+
+  
+
+**Backend Development:**
+
+![Node.js](https://img.shields.io/badge/Node.js-88%25-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=black)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-82%25-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)
+
+
+
+---
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -119,6 +164,21 @@
 
 <!-- --- -->
 
+## 📈 Detailed Activity Stats
+
+![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theubaidistan&theme=github_dark)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theubaidistan&theme=github_dark&utcOffset=5" alt="Productive Time" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theubaidistan&theme=github_dark" alt="Repos per Language" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theubaidistan&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+---
+
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
@@ -133,7 +193,17 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
+
 ---
+
+## 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+</p>
+
+---
+
 
 ## 📈 Contribution Graph
 
