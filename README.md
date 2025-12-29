@@ -212,7 +212,7 @@
 
 <p  align="center">
 
-<img  src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,3,4,5&height=150&section=header&text=Please %Support %Us!&fontSize=50&animation=fadeIn&fontColor=fff"  />
+<img  src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,3,4,5&height=150&section=header&text=Support!&fontSize=50&animation=fadeIn&fontColor=fff"  />
 
 </p>
 
