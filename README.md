@@ -30,7 +30,7 @@
 - 🌱 I'm currently learning **Advanced React Patterns & System Design**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React js, Node.js, TypeScript, MongoDB**
-- 📫 How to reach me: **ubaidazrab50@@gmail.com**
+- 📫 How to reach me: **ubaidazrab50@gmail.com**
 - ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
 
 ---
