@@ -1,11 +1,7 @@
-<p  align="center">
 
-<img  src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,24&height=200&section=header&text=Code%20Matrix&fontSize=70&rotate=14&fontAlignY=25&desc=The%20Developer&descAlignY=43&descAlign=60"  />
-
-</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Ubaid&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome %Viewer!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </p>
 
 <p  align="center">
@@ -14,11 +10,7 @@
 
 </p>
 
-<p  align="center">
 
-<img  src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,3,4,5&height=150&section=header&text=Full%20Stack%20Dev&fontSize=50&animation=fadeIn&fontColor=fff"  />
-
-</p>
 
 <h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Ubaid</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Pakistan 🇵🇰</h3>
@@ -44,6 +36,12 @@
 - ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
 
 ---
+
+<p  align="center">
+
+<img  src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,24&height=200&section=header&text=%20Explore&fontSize=55&rotate=14&fontAlignY=25&desc=Journey%20Developer&descAlignY=43&descAlign=60"  />
+
+</p>
 
 ## 🌐 Connect with Me
 <p align="center"> <a href="https://linkedin.com/in/muhammad-ubaid-164a98278" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /> </a> <a href="https://github.com/theubaidistan" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="50" /> </a> <a href="https://dev.to/theubaidistan" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="40" width="50" /> </a> <a href="mailto:ubaidazrab50@gmail.com" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="50" /> </a> </p> <p align="center"> <a href="mailto:ubaidazrab50@gmail.com"> <img src="https://img.shields.io/badge/Email_Me-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/muhammad-ubaid-164a98278"> <img src="https://img.shields.io/badge/Hire_Me-I'm_Available-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
@@ -213,12 +211,20 @@
 
 ---
 
+<p  align="center">
+
+<img  src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,3,4,5&height=150&section=header&text=Please %Support %Us!&fontSize=50&animation=fadeIn&fontColor=fff"  />
+
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <div align="center">
-  
+
+
+
 ### 💝 Show some love by starring ⭐ some repositories!
 
 [![](https://visitcount.itsvg.in/api?id=theubaidistan&icon=0&color=0)](https://visitcount.itsvg.in)
