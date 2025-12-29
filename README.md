@@ -206,22 +206,16 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=theubaidistan&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=theubaidistan&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theubaidistan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
 
----
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theubaidistan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</p>
+
+
 
 ---
 
@@ -290,13 +284,6 @@
 
 ---
 
-## 🎯 Random Dev Meme
-
-<p align="center">
-  <img src="https://memer-new.vercel.app/" alt="Dev Meme" width="512px"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -306,13 +293,7 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/theubaidistan/theubaidistan/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 💰 Support My Work
 
@@ -345,13 +326,6 @@
 
 ### 💝 Show some love by starring ⭐ some repositories!
 
-[![](https://visitcount.itsvg.in/api?id=theubaidistan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### 📊 Detailed Visitor Analytics
-
-![Visitor Count](https://profile-counter.glitch.me/theubaidistan/count.svg)
-
-</div>
 
 ---
 
